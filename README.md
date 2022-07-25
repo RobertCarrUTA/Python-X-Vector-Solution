@@ -1,2 +1,2 @@
-* README is still under construction *
-# Python-Solve-X-Vector-Linear-Algebra
+*README is still under construction*
+# Solve the X vector of a matrix in Python
