@@ -11,7 +11,7 @@ How the program was ran:
     Compile/run: python3 solveXMatrix.py
 
 Goal of Program:
-    (a) Compute the the vector x given B and [x]B below and print the
+    (a) Compute the vector x given B and [x]B below and print the
         result. 
 
 
